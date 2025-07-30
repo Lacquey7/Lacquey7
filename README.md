@@ -1,5 +1,12 @@
-# 💫 About Me:
-## 👋 Salut, moi c’est Mohamed<br><br>👯 Je cherche à collaborer sur des projets **Go**, **Docker**, **backend scalable** ou **React/Next.js**.  <br>🤝 Je suis ouvert à de l'aide ou des retours sur mes projets **DevOps**, **authentification sécurisée**, ou **architecture logicielle**.  <br>🌱 J'apprends en ce moment **Kubernetes**, l'optimisation des **API REST**, et la **scalabilité** côté backend.  <br>💬 Pose-moi des questions sur **Golang**, **Docker**, **Redis**, **test unitaire**, ou encore **comment déployer un projet SaaS de A à Z**.  <br>⚡ Fun fact : J’ai transformé mes cours de compta en un SaaS éducatif… et je kiffe ça plus que les bilans 🤓<br><br>> 💡 Mon but ? Créer des outils simples, rapides et utiles pour les étudiants et les indépendants.<br><br>📫 Tu peux me contacter sur [LinkedIn](https://www.linkedin.com/in/mtliche) ou directement ici !<br>
+# 💫 About Me
+
+👋 Moi c’est Lacquey, passionné par le backend, le cloud et l’architecture logicielle  
+🛠️ Go, Docker, Redis, PostgreSQL — j’aime ce qui est propre, rapide et scalable  
+🌱 J’explore Kubernetes, les systèmes distribués et l’optimisation d’APIs  
+🤝 Toujours partant pour discuter DevOps ou backend solide
+
+📫 Tu peux me contacter sur [LinkedIn](https://www.linkedin.com/in/mtliche) ou directement ici !
+
 
 
 ## 🌐 Socials:
