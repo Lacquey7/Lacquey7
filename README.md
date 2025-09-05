@@ -1,14 +1,3 @@
-# 💫 About Me
-
-👋 Moi c’est Lacquey, passionné par le backend, le cloud et l’architecture logicielle  
-🛠️ Go, Docker, Redis, PostgreSQL — j’aime ce qui est propre, rapide et scalable  
-🌱 J’explore Kubernetes, les systèmes distribués et l’optimisation d’APIs  
-🤝 Toujours partant pour discuter DevOps ou backend solide
-
-📫 Tu peux me contacter sur [LinkedIn](https://www.linkedin.com/in/mtliche) ou directement ici !
-
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/mtliche) 
 
